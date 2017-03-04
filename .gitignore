@@ -4,3 +4,9 @@
 test/lex/matlib_static_switch.h
 
 test/lex/matlib_static.h
+
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
